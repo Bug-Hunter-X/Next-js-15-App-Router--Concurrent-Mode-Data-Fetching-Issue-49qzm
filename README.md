@@ -1,0 +1,3 @@
+# Next.js 15 App Router: Concurrent Mode Data Fetching Issue
+
+This repository demonstrates a potential issue encountered when using dynamic routes and data fetching within the Next.js 15 App Router's concurrent mode.  The issue involves unexpected behavior where data fetching might not behave as expected, potentially leading to race conditions or data inconsistencies. This particular example focuses on the challenges of fetching data during navigation.
